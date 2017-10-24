@@ -1,6 +1,10 @@
 # SpringBoot-Webflow
 
+Have you found as your web application gets more complex, understanding and managing the page flow – the orchestration that drives your application use cases – gets harder and harder? Are you tired of being forced into very particular ways of doing things that don’t give you much reuse? Do you feel you’re spending too much time developing your own approaches to generic problems like session state management?
+
 Spring Web Flow builds on Spring MVC and allows implementing flows within a web application. It’s used for creating sequences of steps that guide users through a process or some business logic. sometimes the scenario may require be to have a more tight control over the flow of the application or to manage the possible ways to navigate through the application.
+
+<b> It is a powerful controller for use when your applications demand complex controlled navigations, such as wizards, to guide the user through a series of steps within a larger application transaction.</b>
 
 Spring  Web-Flow helps in this kind of scenario by clearly defining the views and the transition between them. Web-Flow is itself based on top of Spring MVC and hence provides all the goodies of Spring MVC plus the added control over the transitions.
 
