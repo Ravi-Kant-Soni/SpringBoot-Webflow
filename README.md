@@ -15,7 +15,6 @@ Flow is basically a cycle of events that will lead to completion of a single tas
 4. Once complete it shouldn't be possible to repeat a transaction accidentally
 
 ## pom.xml
-
 <dependency>
 	<groupId>org.springframework.webflow</groupId>
 	<artifactId>spring-webflow</artifactId>
